@@ -1,0 +1,23 @@
+c:\users\manue\documents\visual studio 2015\Projects\Taller2_Simulacion\Taller2_Simulacion\bin\Debug\Taller2_Simulacion.exe.config
+c:\users\manue\documents\visual studio 2015\Projects\Taller2_Simulacion\Taller2_Simulacion\bin\Debug\Taller2_Simulacion.exe
+c:\users\manue\documents\visual studio 2015\Projects\Taller2_Simulacion\Taller2_Simulacion\bin\Debug\Taller2_Simulacion.pdb
+c:\users\manue\documents\visual studio 2015\Projects\Taller2_Simulacion\Taller2_Simulacion\bin\Debug\Taller2_Simulacion.xml
+c:\users\manue\documents\visual studio 2015\Projects\Taller2_Simulacion\Taller2_Simulacion\obj\Debug\Taller2_Simulacion.vbprojResolveAssemblyReference.cache
+c:\users\manue\documents\visual studio 2015\Projects\Taller2_Simulacion\Taller2_Simulacion\obj\Debug\Taller2_Simulacion.Form1.resources
+c:\users\manue\documents\visual studio 2015\Projects\Taller2_Simulacion\Taller2_Simulacion\obj\Debug\Taller2_Simulacion.Resources.resources
+c:\users\manue\documents\visual studio 2015\Projects\Taller2_Simulacion\Taller2_Simulacion\obj\Debug\Taller2_Simulacion.vbproj.GenerateResource.Cache
+c:\users\manue\documents\visual studio 2015\Projects\Taller2_Simulacion\Taller2_Simulacion\obj\Debug\Taller2_Simulacion.exe
+c:\users\manue\documents\visual studio 2015\Projects\Taller2_Simulacion\Taller2_Simulacion\obj\Debug\Taller2_Simulacion.xml
+c:\users\manue\documents\visual studio 2015\Projects\Taller2_Simulacion\Taller2_Simulacion\obj\Debug\Taller2_Simulacion.pdb
+C:\Users\davic\source\repos\Taller2_Simulacion\Taller2_Simulacion\bin\Debug\Taller2_Simulacion.exe.config
+C:\Users\davic\source\repos\Taller2_Simulacion\Taller2_Simulacion\bin\Debug\Taller2_Simulacion.exe
+C:\Users\davic\source\repos\Taller2_Simulacion\Taller2_Simulacion\bin\Debug\Taller2_Simulacion.pdb
+C:\Users\davic\source\repos\Taller2_Simulacion\Taller2_Simulacion\bin\Debug\Taller2_Simulacion.xml
+C:\Users\davic\source\repos\Taller2_Simulacion\Taller2_Simulacion\obj\Debug\Taller2_Simulacion.vbprojAssemblyReference.cache
+C:\Users\davic\source\repos\Taller2_Simulacion\Taller2_Simulacion\obj\Debug\Taller2_Simulacion.Form1.resources
+C:\Users\davic\source\repos\Taller2_Simulacion\Taller2_Simulacion\obj\Debug\Taller2_Simulacion.Resources.resources
+C:\Users\davic\source\repos\Taller2_Simulacion\Taller2_Simulacion\obj\Debug\Taller2_Simulacion.vbproj.GenerateResource.cache
+C:\Users\davic\source\repos\Taller2_Simulacion\Taller2_Simulacion\obj\Debug\Taller2_Simulacion.vbproj.CoreCompileInputs.cache
+C:\Users\davic\source\repos\Taller2_Simulacion\Taller2_Simulacion\obj\Debug\Taller2_Simulacion.exe
+C:\Users\davic\source\repos\Taller2_Simulacion\Taller2_Simulacion\obj\Debug\Taller2_Simulacion.xml
+C:\Users\davic\source\repos\Taller2_Simulacion\Taller2_Simulacion\obj\Debug\Taller2_Simulacion.pdb
